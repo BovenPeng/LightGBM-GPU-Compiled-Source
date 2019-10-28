@@ -4,7 +4,7 @@
 
 This is a LightGBM-GPU python-package compiled source code.
 
-I upload it for packing it up.
+I upload it for backing it up.
 
 If want to compile it on your on machine you can follow it on the official [GPU-Tutorials](<https://lightgbm.readthedocs.io/en/latest/GPU-Tutorial.html>) or the references I give as follows.
 
